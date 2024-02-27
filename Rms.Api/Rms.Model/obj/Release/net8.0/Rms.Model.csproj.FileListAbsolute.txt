@@ -1,0 +1,12 @@
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\bin\Release\net8.0\Rms.Model.deps.json
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\bin\Release\net8.0\Rms.Model.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\bin\Release\net8.0\Rms.Model.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\obj\Release\net8.0\Rms.Model.csproj.AssemblyReference.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\obj\Release\net8.0\Rms.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\obj\Release\net8.0\Rms.Model.AssemblyInfoInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\obj\Release\net8.0\Rms.Model.AssemblyInfo.cs
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\obj\Release\net8.0\Rms.Model.csproj.CoreCompileInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\obj\Release\net8.0\Rms.Model.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\obj\Release\net8.0\refint\Rms.Model.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\obj\Release\net8.0\Rms.Model.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Model\obj\Release\net8.0\ref\Rms.Model.dll

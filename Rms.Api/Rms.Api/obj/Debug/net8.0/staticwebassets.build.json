@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "5OHKWDXq/E456HGWqTMYsSfiyVY+D82XEi45KxTE4Hk=",
+  "Source": "Rms.Api",
+  "BasePath": "_content/Rms.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Rms.Api\\wwwroot",
+      "Source": "Rms.Api",
+      "ContentRoot": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\",
+      "BasePath": "_content/Rms.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\log\\log-20230604.txt",
+      "SourceId": "Rms.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\",
+      "BasePath": "_content/Rms.Api",
+      "RelativePath": "log/log-20230604.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\log\\log-20230604.txt"
+    },
+    {
+      "Identity": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\log\\log-20231119.txt",
+      "SourceId": "Rms.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\",
+      "BasePath": "_content/Rms.Api",
+      "RelativePath": "log/log-20231119.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\log\\log-20231119.txt"
+    },
+    {
+      "Identity": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\log\\log-20231121.txt",
+      "SourceId": "Rms.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\",
+      "BasePath": "_content/Rms.Api",
+      "RelativePath": "log/log-20231121.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\log\\log-20231121.txt"
+    }
+  ]
+}

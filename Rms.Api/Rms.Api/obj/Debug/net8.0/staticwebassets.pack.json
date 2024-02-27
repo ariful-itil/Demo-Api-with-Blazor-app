@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\log\\log-20230604.txt",
+      "PackagePath": "staticwebassets\\log\\log-20230604.txt"
+    },
+    {
+      "Id": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\log\\log-20231119.txt",
+      "PackagePath": "staticwebassets\\log\\log-20231119.txt"
+    },
+    {
+      "Id": "C:\\Users\\INFINITY\\Desktop\\Rms.Api\\Rms.Api\\wwwroot\\log\\log-20231121.txt",
+      "PackagePath": "staticwebassets\\log\\log-20231121.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Rms.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Rms.Api.props",
+      "PackagePath": "build\\Rms.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Rms.Api.props",
+      "PackagePath": "buildMultiTargeting\\Rms.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Rms.Api.props",
+      "PackagePath": "buildTransitive\\Rms.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

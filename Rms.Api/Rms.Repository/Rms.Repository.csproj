@@ -1,0 +1,21 @@
+
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>Rms</RootNamespace>
+    <UserSecretsId>3bd36278-91a0-491f-a4b9-3743ef77803d</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rms.Data\Rms.Data.csproj" />
+    <ProjectReference Include="..\Rms.Interface\Rms.Interface.csproj" />
+    <ProjectReference Include="..\Rms.Logger\Rms.Logger.csproj" />
+  </ItemGroup>
+
+</Project>
+
+

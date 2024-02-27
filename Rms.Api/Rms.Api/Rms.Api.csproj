@@ -1,0 +1,50 @@
+
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Rms</RootNamespace>
+    <UserSecretsId>84b2fa61-9597-46a3-aab2-6c616f86ce9d</UserSecretsId>
+    <RunAnalyzersDuringLiveAnalysis>True</RunAnalyzersDuringLiveAnalysis>
+    <RunAnalyzersDuringBuild>True</RunAnalyzersDuringBuild>
+    <AnalysisLevel>latest-all</AnalysisLevel>
+    <EnableNETAnalyzers>True</EnableNETAnalyzers>
+    <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel> 
+  </PropertyGroup>
+
+   <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <TreatAsUsed>true</TreatAsUsed>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http.Polly" Version="8.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rms.Command\Rms.Command.csproj" />
+    <ProjectReference Include="..\Rms.Data\Rms.Data.csproj" />
+    <ProjectReference Include="..\Rms.Handler\Rms.Handler.csproj" />
+    <ProjectReference Include="..\Rms.Interface\Rms.Interface.csproj" />
+    <ProjectReference Include="..\Rms.Logger\Rms.Logger.csproj" />
+    <ProjectReference Include="..\Rms.Query\Rms.Query.csproj" />
+    <ProjectReference Include="..\Rms.Repository\Rms.Repository.csproj" />
+    <ProjectReference Include="..\Rms.Service\Rms.Service.csproj" />
+    <ProjectReference Include="..\WorkerService\WorkerService.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Log\" />
+  </ItemGroup>
+
+</Project>
+
+

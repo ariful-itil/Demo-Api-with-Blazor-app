@@ -1,0 +1,17 @@
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\bin\Release\net8.0\Rms.Data.deps.json
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\bin\Release\net8.0\Rms.Data.runtimeconfig.json
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\bin\Release\net8.0\Rms.Data.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\bin\Release\net8.0\Rms.Data.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\bin\Release\net8.0\Rms.Model.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\bin\Release\net8.0\Rms.Model.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\Rms.Data.csproj.AssemblyReference.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\Rms.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\Rms.Data.AssemblyInfoInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\Rms.Data.AssemblyInfo.cs
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\Rms.Data.csproj.CoreCompileInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\Rms.Data.csproj.CopyComplete
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\Rms.Data.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\refint\Rms.Data.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\Rms.Data.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\Rms.Data.genruntimeconfig.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Data\obj\Release\net8.0\ref\Rms.Data.dll

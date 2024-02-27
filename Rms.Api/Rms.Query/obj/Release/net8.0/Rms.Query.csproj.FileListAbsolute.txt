@@ -1,0 +1,15 @@
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\bin\Release\net8.0\Rms.Query.deps.json
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\bin\Release\net8.0\Rms.Query.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\bin\Release\net8.0\Rms.Query.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\bin\Release\net8.0\Rms.Model.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\bin\Release\net8.0\Rms.Model.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\Rms.Query.csproj.AssemblyReference.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\Rms.Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\Rms.Query.AssemblyInfoInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\Rms.Query.AssemblyInfo.cs
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\Rms.Query.csproj.CoreCompileInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\Rms.Query.csproj.CopyComplete
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\Rms.Query.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\refint\Rms.Query.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\Rms.Query.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Query\obj\Release\net8.0\ref\Rms.Query.dll

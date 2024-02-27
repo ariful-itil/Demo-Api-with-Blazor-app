@@ -1,0 +1,24 @@
+
+
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>7b863a6b-5e00-4893-9d76-774b62986e28</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rms.Data\Rms.Data.csproj" />
+    <ProjectReference Include="..\Rms.Interface\Rms.Interface.csproj" />
+    <ProjectReference Include="..\Rms.Logger\Rms.Logger.csproj" />
+    <ProjectReference Include="..\Rms.Service\Rms.Service.csproj" />
+  </ItemGroup>
+</Project>
+
+

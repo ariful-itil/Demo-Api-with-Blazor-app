@@ -1,0 +1,85 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "Entity",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Rms",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[ApplicantInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ApplicantValidPhotoInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ApplicationRegistry]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Beneficiary]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BranchInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BranchRegistry]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CommonCode]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Computers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ExchangeRateInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FeesInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Remittance]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "2ffcd7030cf1.RMS_MBL_UK.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

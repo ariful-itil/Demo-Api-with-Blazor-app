@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\MyApp\Rms.Api</_PublishTargetUrl>
+    <History>True|2023-11-24T06:02:41.8256892Z;True|2023-11-24T11:57:51.3974116+06:00;True|2023-11-23T14:57:08.6387317+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

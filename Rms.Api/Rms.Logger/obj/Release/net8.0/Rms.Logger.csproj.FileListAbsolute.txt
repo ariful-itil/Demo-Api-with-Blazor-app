@@ -1,0 +1,15 @@
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\bin\Release\net8.0\Rms.Logger.deps.json
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\bin\Release\net8.0\Rms.Logger.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\bin\Release\net8.0\Rms.Logger.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\bin\Release\net8.0\Rms.Model.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\bin\Release\net8.0\Rms.Model.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\Rms.Logger.csproj.AssemblyReference.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\Rms.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\Rms.Logger.AssemblyInfoInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\Rms.Logger.AssemblyInfo.cs
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\Rms.Logger.csproj.CoreCompileInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\Rms.Logger.csproj.CopyComplete
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\Rms.Logger.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\refint\Rms.Logger.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\Rms.Logger.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Logger\obj\Release\net8.0\ref\Rms.Logger.dll

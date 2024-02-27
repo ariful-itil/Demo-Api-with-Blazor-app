@@ -1,0 +1,24 @@
+
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>Rms</RootNamespace>
+    <UserSecretsId>7d7e6faf-a3de-402e-8e12-2a1ea6f50eba</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rms.Model\Rms.Model.csproj" />
+  </ItemGroup>
+
+</Project>
+
+
+

@@ -1,0 +1,23 @@
+
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>Rms</RootNamespace>
+    <UserSecretsId>0e0307f2-613e-4c55-b108-feb093773956</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Confluent.SchemaRegistry.Serdes.Protobuf" Version="2.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rms.Model\Rms.Model.csproj" />
+    <ProjectReference Include="..\Rms.Protobuf\Rms.Protobuf.csproj" />
+  </ItemGroup>
+
+</Project>
+

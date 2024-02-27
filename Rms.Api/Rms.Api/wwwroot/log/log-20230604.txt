@@ -1,0 +1,46 @@
+2023-06-04 10:10:05.626 +06:00 [INF] Now listening on: https://localhost:7294
+2023-06-04 10:10:05.659 +06:00 [INF] Now listening on: http://localhost:5050
+2023-06-04 10:10:05.664 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-04 10:10:05.666 +06:00 [INF] Hosting environment: Development
+2023-06-04 10:10:05.667 +06:00 [INF] Content root path: C:\Users\nasim\source\repos\ResaleBD\Resale.Api
+2023-06-04 10:10:27.756 +06:00 [INF] Now listening on: https://localhost:7294
+2023-06-04 10:10:27.785 +06:00 [INF] Now listening on: http://localhost:5050
+2023-06-04 10:10:27.790 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-04 10:10:27.794 +06:00 [INF] Hosting environment: Development
+2023-06-04 10:10:27.795 +06:00 [INF] Content root path: C:\Users\nasim\source\repos\ResaleBD\Resale.Api
+2023-06-04 10:11:14.450 +06:00 [ERR] Health check Entity with status "Unhealthy" completed after 2526.401ms with message 'null'
+2023-06-04 10:11:23.621 +06:00 [ERR] Health check Entity with status "Unhealthy" completed after 1434.1041ms with message 'null'
+2023-06-04 10:11:26.042 +06:00 [ERR] Health check Entity with status "Unhealthy" completed after 105.6134ms with message 'null'
+2023-06-04 10:11:27.421 +06:00 [ERR] Health check Entity with status "Unhealthy" completed after 3.4068ms with message 'null'
+2023-06-04 10:14:41.085 +06:00 [INF] Now listening on: https://localhost:7294
+2023-06-04 10:14:41.117 +06:00 [INF] Now listening on: http://localhost:5050
+2023-06-04 10:14:41.119 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-04 10:14:41.120 +06:00 [INF] Hosting environment: Development
+2023-06-04 10:14:41.120 +06:00 [INF] Content root path: C:\Users\nasim\source\repos\ResaleBD\Resale.Api
+2023-06-04 10:14:54.305 +06:00 [ERR] Health check Entity with status "Unhealthy" completed after 2878.6056ms with message 'null'
+2023-06-04 10:15:02.992 +06:00 [ERR] Health check Entity with status "Unhealthy" completed after 885.3994ms with message 'null'
+2023-06-04 10:15:33.147 +06:00 [INF] Now listening on: https://localhost:7294
+2023-06-04 10:15:33.182 +06:00 [INF] Now listening on: http://localhost:5050
+2023-06-04 10:15:33.185 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-04 10:15:33.186 +06:00 [INF] Hosting environment: Development
+2023-06-04 10:15:33.187 +06:00 [INF] Content root path: C:\Users\nasim\source\repos\ResaleBD\Resale.Api
+2023-06-04 11:42:43.644 +06:00 [INF] Now listening on: https://localhost:7294
+2023-06-04 11:42:43.679 +06:00 [INF] Now listening on: http://localhost:5050
+2023-06-04 11:42:43.681 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-04 11:42:43.682 +06:00 [INF] Hosting environment: Development
+2023-06-04 11:42:43.683 +06:00 [INF] Content root path: C:\Users\nasim\source\repos\ResaleBD\Resale.Api
+2023-06-04 11:53:56.758 +06:00 [INF] Now listening on: https://localhost:7294
+2023-06-04 11:53:56.788 +06:00 [INF] Now listening on: http://localhost:5050
+2023-06-04 11:53:56.790 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-04 11:53:56.791 +06:00 [INF] Hosting environment: Development
+2023-06-04 11:53:56.792 +06:00 [INF] Content root path: C:\Users\nasim\source\repos\ResaleBD\Resale.Api
+2023-06-04 11:56:45.571 +06:00 [INF] Now listening on: https://localhost:7294
+2023-06-04 11:56:45.605 +06:00 [INF] Now listening on: http://localhost:5050
+2023-06-04 11:56:45.612 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-04 11:56:45.613 +06:00 [INF] Hosting environment: Development
+2023-06-04 11:56:45.614 +06:00 [INF] Content root path: C:\Users\nasim\source\repos\ResaleBD\Resale.Api
+2023-06-04 14:35:34.287 +06:00 [INF] Now listening on: https://localhost:7294
+2023-06-04 14:35:34.341 +06:00 [INF] Now listening on: http://localhost:5050
+2023-06-04 14:35:34.346 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-04 14:35:34.349 +06:00 [INF] Hosting environment: Development
+2023-06-04 14:35:34.350 +06:00 [INF] Content root path: C:\Users\nasim\source\repos\ResaleBD\Resale.Api

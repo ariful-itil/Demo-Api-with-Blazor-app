@@ -1,0 +1,12 @@
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\bin\Release\net8.0\WorkerService.deps.json
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\bin\Release\net8.0\WorkerService.dll
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\bin\Release\net8.0\WorkerService.pdb
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\obj\Release\net8.0\WorkerService.csproj.AssemblyReference.cache
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\obj\Release\net8.0\WorkerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\obj\Release\net8.0\WorkerService.AssemblyInfoInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\obj\Release\net8.0\WorkerService.AssemblyInfo.cs
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\obj\Release\net8.0\WorkerService.csproj.CoreCompileInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\obj\Release\net8.0\WorkerService.dll
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\obj\Release\net8.0\refint\WorkerService.dll
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\obj\Release\net8.0\WorkerService.pdb
+C:\Users\nasim\source\repos\Rms.Api\WorkerService\obj\Release\net8.0\ref\WorkerService.dll

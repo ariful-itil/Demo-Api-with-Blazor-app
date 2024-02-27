@@ -1,0 +1,15 @@
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\bin\Release\net8.0\Rms.Interface.deps.json
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\bin\Release\net8.0\Rms.Interface.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\bin\Release\net8.0\Rms.Interface.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\bin\Release\net8.0\Rms.Model.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\bin\Release\net8.0\Rms.Model.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\Rms.Interface.csproj.AssemblyReference.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\Rms.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\Rms.Interface.AssemblyInfoInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\Rms.Interface.AssemblyInfo.cs
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\Rms.Interface.csproj.CoreCompileInputs.cache
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\Rms.Interface.csproj.CopyComplete
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\Rms.Interface.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\refint\Rms.Interface.dll
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\Rms.Interface.pdb
+C:\Users\nasim\source\repos\Rms.Api\Rms.Interface\obj\Release\net8.0\ref\Rms.Interface.dll
